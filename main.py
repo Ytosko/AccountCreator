@@ -10,7 +10,7 @@ def initialize_firebase():
     global default_app_initialized
     if not default_app_initialized:
         # Initialize Firebase only if it's not already initialized
-        cred = credentials.Certificate(st.secrets["firebase"]['service '])
+        cred = credentials.Certificate(dict(st.secrets["firebase"]['service ']))
         firebase_admin.initialize_app(cred)
         default_app_initialized = True
 
