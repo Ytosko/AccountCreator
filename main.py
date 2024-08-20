@@ -14,6 +14,8 @@ def initialize_firebase():
         firebase_admin.initialize_app(cred)
         default_app_initialized = True
 
+initialize_firebase()
+
 def create_user(email, password):
     return auth.create_user(email=email, password=password)
 
