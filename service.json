@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "quranproj-ytosko",
+    "private_key_id": "66925ac9ec1f65c4bc77e893c622f9a6a2882a75",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+LjIHnJJATCR8\n9QTBzA0+TqEg+d++WwZdTMK9ul0m0gXfHFOp0g8gxKj8ui3mOJklZnKPTk7Exa4A\neh97AN2UmtMWMBiCaWTYs1tzEM+rMf+Zdd8dNecmUF6kBAVA5Ks1JX+czE1zd1WF\n9fz3ffPzRnYCC9hQHnI3u0G0hg5TsYE088+rLtUHkyAHJKcMAjPVJKBldJsXIdRp\n+sZHxv487Aqr8uFnfmqSk4ZSMpVgQS874RD33MSBPp4d2fcA6EVMLLvXjQ0DjSOG\nOLahFDetYl+JznDSdI2ZRc3DWKqCWNiuE+nzjIsq+DVvbPrJv90SNCv6DWVFqf6I\nJuLosW/hAgMBAAECggEAHmqxhj2gt4dmE5U1ilBaMuOtCiLkyeNxkGUJRYKDyQRw\nu3cim2fVExLZCzi0xBw7xDtPKcPmvbp3IqzlkYz5I34isisFlIAKSM1g3DWtXS5d\nOLxdL6USH/LdPCLHe1JHXrPtZdTYM1Y797W43JWIuZlEoP2nfmLsNiUtNFP3gSN9\nJWx6LvWBrSoTLh+u8Hra3Ti8aB00nmAAXwMjLKSutLT8yByMjoUCNjHi0lSZdsNE\nRfLwrQmKQZuJxdWH/kdYm1/7uzh5w5gbQLqgEJP4SO5OsUSMWR0JEnAs7mPOWCOT\nPZ0F1P27qywKW1UanBMqrnQRvJ8wH81V+VMj2TRTdQKBgQDtwz1lnU/5aJhpDGps\nSql/HRvwagH9RRqohy7woSqSx3TUZaOasbQdi4Xlf0odf70rBdPfXMemSfnwYzy+\nHVYyHfgJ8X1EqmO1341hnO/8x3gIwMKo1MduQ5cXURiYQsbH/VO0z4bTeqYcWnoi\nPRCY6omTZZgODJgjYkPJ4hUFZQKBgQDMxJ7yZj3ydXWkPFaRepD/5Go4GoYVFYNX\nEPAcaSi8Y3RtkqrfQDuSK9zvBCXIOi46dmPIrWN/bfziAqfgAr6xc3Gow/SWaCYU\nd4dqmfv+8Op21tbglmLs+WrB/BilbNKvtOPnWhHaIMkNLCO8oqWQWmAeSYqZ9Dot\nrtarCfDGzQKBgAtGiw7amwRU9YVl1VY1ZDxnAQAxxs5gDJeZcZxvyDkVxHCeMVgQ\nvV35U+xCUR19BVeY+ydImx9Dutqvmh3Z/lB6I101Wp97BSeG5omOi8MNIqAnpBOl\no5+TDQNKEUSHRi4N0X5tqRM2adJGaCxfgP3/gW7ADqn75usmqdhVJHIRAoGAMrQt\nN5Chnjv/mV9ngDZ9WR/SPXoz4VymXRTQn/haIevulINQ1F8vYQ6DcpvwTxg5Ajj2\nlGZ60L8Hc198+jczyPTxG/0Jv4SiiUbfvUHL6GD3bd3c71fNvygziz1FTREZSnDc\nThk7emvL3PslDjyoCoqWammDbIPRNCaq+UdI27ECgYBt5WpxYnVsvZwgFdmdSIcg\n1RcTyWvEZddNOm80V6MDBpRMMQ9mM0BPMWibyhMLtt9WtqErKxMaLAfeLo+Lrips\nSVOglRnyeUOEpTxSI0aE3eQigbe1QUlYohNkJkClGRs9NKc8+OAIRHH2sua6Cy2y\nKhDPtgukspr8OCzPgDpBDw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-ytwgh@quranproj-ytosko.iam.gserviceaccount.com",
+    "client_id": "117416458937269625757",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ytwgh%40quranproj-ytosko.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
