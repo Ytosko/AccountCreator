@@ -8,6 +8,10 @@ default_app_initialized = False
 
 def initialize_firebase():
     global default_app_initialized
+    try:
+        firebase_admin.delete_app(firebase_admin.get_app())
+    except:
+        print("No app fount")
     if not default_app_initialized:
         # Initialize Firebase only if it's not already initialized
         cred = credentials.Certificate(dict(st.secrets["firebase"]))
