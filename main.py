@@ -26,6 +26,7 @@ def create_user(email, password):
 
 def add_single_user(email, password):
     try:
+        password = str(password)
         user = create_user(email, password)
         return f"{email.split('@')[0]} created successfully!"
     except Exception as e:
