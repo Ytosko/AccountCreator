@@ -40,9 +40,8 @@ def bulk_upload_users(file):
             return "Excel file must contain 'email' and 'password' columns."
         
         results = []
+        df = df.astype(str)
         for _, row in df.iterrows():
-            # convert df to str
-            df = df.astype(str)
             email = row['username']
             password = row['password']
             # Replace username with email and append '@istudent.ly'
