@@ -41,6 +41,8 @@ def bulk_upload_users(file):
         
         results = []
         for _, row in df.iterrows():
+            # convert df to str
+            df = df.astype(str)
             email = row['username']
             password = row['password']
             # Replace username with email and append '@istudent.ly'
